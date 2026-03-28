@@ -1,0 +1,6 @@
+pandas
+seaborn
+matplotlib
+scikit-learn
+flask
+tensorflow==2.10.0
