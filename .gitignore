@@ -4,3 +4,6 @@ venv/
 
 # folder
 plantvillage/
+
+# keras
+*.keras
