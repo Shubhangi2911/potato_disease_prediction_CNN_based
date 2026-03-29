@@ -7,3 +7,4 @@ plantvillage/
 
 # keras
 *.keras
+*.h5
